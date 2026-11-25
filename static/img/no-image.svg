@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-labelledby="phTitle">
+  <title id="phTitle">Нет фото</title>
+  <rect width="400" height="300" fill="#eef1f6"/>
+  <g fill="none" stroke="#9ca3af" stroke-width="6" stroke-linejoin="round">
+    <rect x="96" y="78" width="208" height="150" rx="12"/>
+    <circle cx="162" cy="126" r="18"/>
+    <path d="m110 214 62-58 44 40 32-28 42 46"/>
+  </g>
+  <text x="200" y="264" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#6b7280">Нет фото</text>
+</svg>
